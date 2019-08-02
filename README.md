@@ -10,8 +10,8 @@ It was tested with an Arduino Nano sends data through serial port.
 You will need:
 
 - Python
-- xlwt
-    pip install xlwt
+- xlwt: pip install xlwt
+- pyserial: pip install pyserial
 
 ## How to use
 
