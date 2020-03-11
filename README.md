@@ -2,7 +2,7 @@
 Read serial data and saved to spreadsheets.
 It was tested with an Arduino Nano sends data through serial port.
 
-![serialToExcel](https://www.gsampallo.com/blog/wp-content/uploads/2019/07/serialToExcel-768x330.jpg)
+![serialToExcel](http://www.gsampallo.com/blog/wp-content/uploads/2019/07/serialToExcel-768x330.jpg)
 
 
 ## Instalation
